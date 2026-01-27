@@ -40,8 +40,7 @@ Ad-hoc Analysis enables self-service analysis for advanced users, allowing detai
 <img src="ScreenShots/Ad-hoc.png" width="800" />
 
 ### Data Model & Design 
-The dashboard is built on a star schema data model, separating fact tables (Cost, Schedule, Issues) from shared dimensions (Project, Date, PM, Category).
-
+The dashboard is built on a star schema data model, separating fact tables (Cost, Schedule, Manhour, Issues) from shared dimensions (Project, Date).
 All KPIs are implemented using DAX measures to maintain calculation integrity and improve performance.
 <img src="ScreenShots/Data-Modelling.png" width="800" />
 

@@ -1,4 +1,4 @@
-# Power Bi Project Controls Dashboard (Cost and Schedule Performance)
+# Power BI Project Controls Report & Executive Dashboard (Cost and Schedule Performance)
 
 ### Purpose 
 This Power BI dashboard shows a view of project cost, schedule and risk performance for Project Managers, and Leadership teams to quickly identify underperforming projects, cost overruns, schedule delays and emerging risks.

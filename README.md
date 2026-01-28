@@ -45,8 +45,8 @@ All KPIs are implemented using DAX measures to maintain calculation integrity an
 <img src="ScreenShots/Data-Modelling.png" width="800" />
 
 
-### Short Demonstation Video
-<!-- <a href="https://youtu.be/xmFU9TStJh4"> -->
-<a href="ScreenShots/PowerBI-Video.mp4">
+### Short Demonstration Video
+<a href="https://youtu.be/xmFU9TStJh4">
+<!-- <a href="ScreenShots/PowerBI-Video.mp4"> -->
 <img src="ScreenShots/Youtube-Thumbnail.png" width="800" />
 </a>

@@ -15,11 +15,8 @@ This project demonstrates my ability to go beyond visualization by creating a co
 <br />
 <br />
 <br />
-<br />
 
 ## 2. Pages
-<br />
-<br />
 
 ### 2-1.Overview - Portfolio Health Monitering 
 This page provides a high-level view to identify trends and outliers
@@ -59,14 +56,11 @@ Ad-hoc Analysis enables self-service analysis for advanced users, allowing detai
 <br />
 <br />
 <br />
-<br />
-
 
 ## 3. Data Model & Design 
 The dashboard is built on a star schema data model, separating fact tables (Cost, Schedule, Manhour, Issues) from shared dimensions (Project, Date).
 All KPIs are implemented using DAX measures to maintain calculation integrity and improve performance.
 <img src="ScreenShots/Data-Modelling.png" width="800" />
-<br />
 <br />
 <br />
 <br />

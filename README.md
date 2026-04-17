@@ -43,9 +43,11 @@ Ad-hoc Analysis enables self-service analysis for advanced users, allowing detai
 The dashboard is built on a star schema data model, separating fact tables (Cost, Schedule, Manhour, Issues) from shared dimensions (Project, Date).
 All KPIs are implemented using DAX measures to maintain calculation integrity and improve performance.
 <img src="ScreenShots/Data-Modelling.png" width="800" />
+<br />
+<br />
 
 
-### Short Demonstration Video
+### Short Demonstration Video (Click the image below)
 <a href="https://youtu.be/xmFU9TStJh4">
 <!-- <a href="ScreenShots/PowerBI-Video.mp4"> -->
 <img src="ScreenShots/Youtube-Thumbnail.png" width="800" />
